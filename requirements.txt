@@ -1,0 +1,13 @@
+langchain
+langchain-community
+sentence-transformers
+flask
+faiss-cpu
+torch
+numpy
+pandas
+jupyter
+notebook
+pymupdf
+langchain-core
+langchain-ollama
